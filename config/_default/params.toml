@@ -62,10 +62,10 @@ content = "🚨 New site, who dis? Welcome to the drumline's new online home. Mu
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Jersey Shore", "Drumline", "Percussion", "JSASD", "Dut"]
-description = "Jersey Shore Area School District Drumline repo"
-author = "Jersey Shore Area School District"
-twitter = "jsasdschools"
+keywords = ["Jersey Shore", "Drumline", "Percussion", "JS Drumline", "Dut"]
+description = "JS Drumline repo"
+author = "Quinn Henry"
+#twitter = "jsasdschools"
 image = "images/og-image.png"
 
 

@@ -11,10 +11,10 @@ name = "About"
 url = "/about"
 weight = 2
 
-#[[main]]
-#name = "Shop"
-#url = "https://drumline.quibtechmedia.com"
-#weight = 3
+[[main]]
+name = "Shop"
+url = "https://shop.jsdrumline.com"
+weight = 3
 
 [[main]]
 name = "Music"
@@ -57,7 +57,7 @@ name = "Music"
 url = "/music"
 weight = 3
 
-#[[footer]]
-#name = "Shop"
-#url = "https://drumline.quibtechmedia.com"
-#weight = 2
+[[footer]]
+name = "Shop"
+url = "https://shop.jsdrumline.com"
+weight = 2
