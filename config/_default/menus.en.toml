@@ -23,6 +23,12 @@ weight = 5
 
 [[main]]
 parent = "Music"
+name = "2026 Cadence"
+url = "/2026-cadence"
+weight=1
+
+[[main]]
+parent = "Music"
 name = "2025 Cadence"
 url = "/2025-cadence"
 
