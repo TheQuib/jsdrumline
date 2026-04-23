@@ -29,3 +29,10 @@ draft: false
 {{< button label="Download" link="/music-files/ninja-disco/ninja-disco-cymbals.pdf" style="outline" target="new" >}}
 <br>
 {{< audio-player label="Ninja Disco - Cymbals" src="/music-files/ninja-disco/ninja-disco-cymbals.mp3" border="1" radius="5" >}}
+
+## Mallets
+{{< button label="Download for Marimba" link="/music-files/ninja-disco/ninja-disco-marimba.pdf" style="outline" target="new" >}}
+
+{{< button label="Download for Vibraphone" link="/music-files/ninja-disco/ninja-disco-vibraphone.pdf" style="outline" target="new" >}}
+
+{{< button label="Download for Xylphone" link="/music-files/ninja-disco/ninja-disco-xylophone.pdf" style="outline" target="new" >}}
