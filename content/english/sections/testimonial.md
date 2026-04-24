@@ -36,6 +36,6 @@ testimonials:
     content: "My mom said I can't say dut at the dinner table anymore."
 
 # don't create a separate page
-_build:
+build:
   render: "never"
 ---
