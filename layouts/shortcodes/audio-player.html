@@ -3,6 +3,8 @@
 {{ $border := .Get "border" | default "1" }}
 {{ $radius := .Get "radius" | default "12" }}
 
+{{ if not (.Page.Store.Get "audio-player-css") }}
+{{ .Page.Store.Set "audio-player-css" true }}
 <style>
   .audio-player {
     padding: 16px;
@@ -80,6 +82,7 @@
     min-width: 40px;
   }
 </style>
+{{ end }}
 
 <div class="audio-player">
   <a href="{{ $src }}" download class="label-link text-black dark:text-white">
@@ -104,6 +107,8 @@
   <audio src="{{ $src }}"></audio>
 </div>
 
+{{ if not (.Page.Store.Get "audio-player-js") }}
+{{ .Page.Store.Set "audio-player-js" true }}
 <script>
   document.addEventListener('DOMContentLoaded', () => {
     document.querySelectorAll('.audio-player').forEach(player => {
@@ -143,3 +148,4 @@
     });
   });
 </script>
+{{ end }}
