@@ -8,8 +8,11 @@ draft: false
 {{< toc >}}
 
 ## Jigs
-### 2025 Bulldog Cadence
-{{< button label="2025 Cadence" link="/2025-cadence" style="solid" >}}
+### 2026 Bulldog Cadence
+{{< button label="2026 Cadence" link="/2026-cadence" style="solid" >}}
+
+### 2026 Modified Cadence
+{{< button label="2026 Modified Cadence" link="/2026-modified-cadence" style="solid" >}}
 
 ### Jig 2
 {{< button label="Jig 2" link="/jig-2" style="solid" >}}
