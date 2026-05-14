@@ -1,7 +1,7 @@
 ---
 title: "2026 Bulldog Cadence"
 meta_title: "Drumline Repo | 2026 Cadence"
-description: "[Anti-Tenors] 2026 Bulldog Marching Band Cadence"
+description: "2026 Bulldog Marching Band Cadence"
 draft: false
 ---
 
@@ -14,6 +14,11 @@ draft: false
 {{< button label="Download" link="/music-files/2026-bulldog-cadence/2026-bulldog-cadence-snare.pdf" style="outline" target="new" >}}
 <br>
 {{< audio-player label="2026 Cadence - Snare" src="/music-files/2026-bulldog-cadence/2026-bulldog-cadence-snare.mp3" border="1" radius="5" >}}
+
+## Tenors
+{{< button label="Download" link="/music-files/2026-bulldog-cadence/2026-bulldog-cadence-tenors.pdf" style="outline" target="new" >}}
+<br>
+{{< audio-player label="2026 Cadence - Tenors" src="/music-files/2026-bulldog-cadence/2026-bulldog-cadence-tenors.mp3" border="1" radius="5" >}}
 
 ## Bass Drums
 {{< button label="Download" link="/music-files/2026-bulldog-cadence/2026-bulldog-cadence-bassDrums.pdf" style="outline" target="new" >}}
