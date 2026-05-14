@@ -55,7 +55,7 @@ show_categories = true
 # announcement
 # announcement module: https://github.com/gethugothemes/hugo-modules/tree/master/components/announcement
 [announcement]
-enable = true
+enable = false
 expire_days = 7
 content = "🚨 New site, who dis? Welcome to the drumline's new online home. Music, updates, and duts are just a click away."
 
