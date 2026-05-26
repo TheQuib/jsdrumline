@@ -1,5 +1,5 @@
 ---
-title: "Welcome to the drumline repo :)"
+title: "Welcome to the drumline :)"
 meta_title: "Dutmaster"
 description: "this is meta description"
 image: "/images/favicon.png"
@@ -10,6 +10,6 @@ We are the Jersey Shore Drumline. We hit drums, consume granola bars at speeds t
 
 Legend says if you say "clean" three times into a mirror while holding a drum pad, someone yells "AGAIN" from directly behind you. We once performed so well at a competition that a judge experienced an emotion and then asked us to be quieter. We took neither as a compliment nor a criticism. We simply played again.
 
-This site exists because OneDrive became a problem and email is a format nobody has respected since 2011. So here we are. Together. Slightly behind the beat. Completely on purpose.
+This site exists because OneDrive became a problem and email is a format nobody has respected since 2011. So here we are.
 
 Welcome to the line. Learn the dut. Become the dut.
